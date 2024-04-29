@@ -5,3 +5,23 @@
 .card-img{
     width: 100%;
 }
+
+.Dmenu{
+
+}
+
+.ahover{
+    color: #333741;
+}
+
+.ahover:hover{
+    color: #ff7b00;
+}
+
+.Ihiver{
+    color: #ffc107;
+}
+
+.Ihiver:hover{
+    color: #ff7b00;
+}
