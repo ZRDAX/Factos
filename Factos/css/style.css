@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.card-img{
+    width: 100%;
+}
+
+.Dmenu{
+
+}
+
+.ahover{
+    color: #333741;
+}
+
+.ahover:hover{
+    color: #ff7b00;
+}
+
+.Ihiver{
+    color: #ffc107;
+}
+
+.Ihiver:hover{
+    color: #ff7b00;
+}
+
+.tbt{
+    align-items: end;
+}
+
+.b-img{
+    background-image:url(https://imgs.search.brave.com/yyh3tUxlIrQ56kDAetFlCEPCAMlIsvZmX7oKY3toYkw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9maWxl/cy50ZWNub2Jsb2cu/bmV0L3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE5LzA1L2JhbmNv/LWltYWdlbS1ncmF0/dWl0by11bnNwbGFz/aC03MDB4NDY3Lmpw/ZWc);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.tt{
+    text-align: justify;
+}
